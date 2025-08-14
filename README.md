@@ -22,4 +22,4 @@ Model performance is evaluated using metrics such as accuracy, confusion matrix,
 The system is structured to be easily deployable, with a Flask backend (app.py) and a web interface (Web.html), enabling seamless interaction and live testing.
 
 - Flask Application Interface:
-- ![Gesture Recognition Example](FlaskAppDemo/FlaspApp.png "Gesture Recognition")
+- ![Gesture Recognition Example](FlaskAppDemo/FlaskApp.png "Gesture Recognition")
