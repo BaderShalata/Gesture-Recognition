@@ -18,7 +18,7 @@ A custom video dataset was collected for model training. Preprocessing steps inc
 - Evaluation and Visualisation
 Model performance is evaluated using metrics such as accuracy, confusion matrix, and classification reports. Visualisations of training/validation loss and accuracy are also provided to support analysis.
 The model pre-trained weights are available on Google Drive:
-# ADD LINK HERE!!
+https://drive.google.com/file/d/1cTuXcdwUC559cgprvulK7hY6t1KkZQ0F/view?usp=drive_link
 - Deployment
 The system is structured to be easily deployable, with a Flask backend (app.py) and a web interface (Web.html), enabling seamless interaction and live testing.
 
