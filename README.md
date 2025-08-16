@@ -1,10 +1,10 @@
 Gesture Recognition System – MSc Dissertation Project
 This project presents a fully automated gesture recognition system, developed as part of a Final MSc Dissertation. The system leverages state-of-the-art computer vision and deep learning techniques to identify and classify human gestures in real time.
 
-Project Files:
-- ML.ipynb containing the code to collect, preprocess, augment data and finally develop a BiLSTM model and train and test it the training and testing sets.
-- app.py containing the backend logic for the Flask application.
-- Web.html ctaoning both HTML and JavaScript code serving as the frontend of the Flask application.
+**Project Files:**
+- *ML.ipynb* containing the code to collect, preprocess, augment data and finally develop a BiLSTM model and train and test it the training and testing sets.
+- *app.py* containing the backend logic for the Flask application.
+- *Web.html* ctaoning both HTML and JavaScript code serving as the frontend of the Flask application.
 
 The workflow is as follows:
 
