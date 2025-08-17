@@ -3,7 +3,7 @@ This project presents a fully automated gesture recognition system, developed as
 
 ## **Project Files:**
 - *BiLSTM.ipynb* containing the code to collect, preprocess, augment data and finally develop a BiLSTM model and train and test it the training and testing sets.
-- *app.py* containing the backend logic for the Flask application.
+- *main.py* containing the backend logic for the Flask application.
 - *Web.html* ctaoning both HTML and JavaScript code serving as the frontend of the Flask application.
 
 ## Workflow:
